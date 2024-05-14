@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "741373453753",
+    "project_id": "authtutorial-a8144",
+    "storage_bucket": "authtutorial-a8144.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741373453753:android:a28a454de480b7e0de0268",
+        "android_client_info": {
+          "package_name": "com.example.authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC37qIuVlZNi37rOhENIGajPg2n_qCYEow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
